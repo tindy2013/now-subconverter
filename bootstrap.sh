@@ -7,4 +7,4 @@ rm subconverter_linux64.tar.gz
 # change extension to make now recognize it
 mv -f subconverter/subconverter subconverter/subconverter.exe
 # overwrite preference settings
-cp -R profiles/* subconverter/
+cp -R files/* subconverter/
